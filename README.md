@@ -53,6 +53,10 @@ Select Payload Number & Press Enter: 1
 Saved to file C:\Users\Malware\Desktop\FinancialData.xls
 ```
 
+
+
+
+
 </BR>
 
 <a href="https://golden-farm.biz/?r=1673249" target="_blank">
